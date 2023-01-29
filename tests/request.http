@@ -1,0 +1,13 @@
+POST http://localhost:8080/api/v1/user/login
+Content-Type: application/json
+
+{
+  "username": "xinsight",
+  "password": "xinsight"
+}
+
+### Get item
+GET http://localhost:8080/api/v1/xhprof/item?id=63d4dfe57078ed90a502c881
+Content-Type: application/json
+
+
