@@ -18,7 +18,7 @@
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
         "ext-mongodb": "*",
-        "firebase/php-jwt": "^6.3",
+        "firebase/php-jwt": "^6.4",
         "mongodb/mongodb": "^1.15",
         "monolog/monolog": "^2.8",
         "php-di/php-di": "^6.4",
