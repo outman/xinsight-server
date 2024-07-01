@@ -19,7 +19,7 @@
         "ext-json": "*",
         "ext-mongodb": "*",
         "firebase/php-jwt": "^6.10",
-        "mongodb/mongodb": "^1.17",
+        "mongodb/mongodb": "^1.19",
         "monolog/monolog": "^2.9",
         "php-di/php-di": "^6.4",
         "slim/psr7": "^1.6",
