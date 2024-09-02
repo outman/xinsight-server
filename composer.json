@@ -30,7 +30,7 @@
         "jangregor/phpstan-prophecy": "^1.0.2",
         "phpspec/prophecy-phpunit": "^2.2",
         "phpstan/extension-installer": "^1.4.1",
-        "phpstan/phpstan": "^1.11",
+        "phpstan/phpstan": "^1.12",
         "phpunit/phpunit": "^11.3.1",
         "squizlabs/php_codesniffer": "^3.10"
     },
